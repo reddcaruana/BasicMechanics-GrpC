@@ -4,7 +4,9 @@
   "name": "BasicMechanics-GrpC",
   "resources": [
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
+    {"id":{"name":"spr_Coin","path":"sprites/spr_Coin/spr_Coin.yy",},"order":1,},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":0,},
+    {"id":{"name":"obj_Coin","path":"objects/obj_Coin/obj_Coin.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
